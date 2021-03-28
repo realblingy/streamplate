@@ -107,6 +107,7 @@ function Home() {
                     setFirstName('');
                     setLastName('');
                     setEmail('');
+                    setMessage('');
                 } 
             })
             .then(() => {
