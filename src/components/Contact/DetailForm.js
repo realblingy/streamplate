@@ -95,6 +95,7 @@ const Sending = styled.h1`
 const ErrorMessage = styled.span`
     color: red;
     margin-bottom: 0.5rem;
+    text-align: center;
 `
 
 function DetailForm({ 
